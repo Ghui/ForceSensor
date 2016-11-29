@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

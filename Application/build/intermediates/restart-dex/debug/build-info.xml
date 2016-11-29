@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="427921304508354"
+    token="-7424687809997378588" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="412630570633852" >
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="415379414341949"
+        verifier="DEPENDENCY_CHANGED" >
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ec171f40f5a60e95f36f229f9141dee4edff19ba\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_0b9ab458b24bdedef4e3f329ad91a76631b6faa0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.0.0_ab4fa47a0c9d4b49070e42c101e9cd7be6000157\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.0_ab64e2c9d63d12f2012da75373c9dbd691a86ca6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_39539235d0785528f36037655fc86f7e4cf40b72\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.jjoe64-graphview-4.1.0_1afa0253e63ac40607d9360fba824d7e8e8a1701\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_40633ddc2fa13b3fef24f4446663ddae410c2929\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_f1c8fde11f5bbf1243ddb6a9b63ba73148616484\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_f993f9b54a2d7db6b207825a8dd79d689230eb5c\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="415481277419906" >
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="427650841754756" >
+        <artifact
+            location="C:\Users\MELAB\Desktop\ForceReadings\ForceSensor\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="427921304508354" />
+
+</instant-run>

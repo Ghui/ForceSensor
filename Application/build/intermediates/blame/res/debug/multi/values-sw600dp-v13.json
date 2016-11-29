@@ -1,0 +1,130 @@
+[
+    {
+        "outputFile": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 67,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endColumn": 67,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 67,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 67,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 67,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endColumn": 67,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 67,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 67,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

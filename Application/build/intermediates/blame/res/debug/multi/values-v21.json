@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 87,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 87,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

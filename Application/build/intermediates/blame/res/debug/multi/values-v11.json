@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\ForceReadings\\ForceSensor\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 48,
+                        "endColumn": 65,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "C:\\Users\\MELAB\\Desktop\\New folder\\BluetoothLeGatt\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 48,
+                        "endColumn": 65,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]
